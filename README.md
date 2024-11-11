@@ -9,4 +9,12 @@
     <td>Rodrigo</td>
     <td>Maceio</td>
   </tr>
+  <tr>
+    <th>Nome</th>
+    <th>Cidade natal</th>
+  </tr>
+  <tr>
+    <td>João Santos</td>
+    <td>Garanhuns</td>
+  </tr>
 </table>
